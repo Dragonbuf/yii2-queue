@@ -1,3 +1,5 @@
+# yii2-queue 类型某种情况下会导致问题,这个版本做了修复
+
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
